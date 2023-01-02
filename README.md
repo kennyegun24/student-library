@@ -55,15 +55,11 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 School Library <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 School Library is a project built with ruby. This web app is a tool used to keep records in library (what books are in the library and who borrows them).
 
 ## 🛠 Built With <a name="built-with">Server</a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Server</summary>
@@ -75,8 +71,6 @@ School Library is a project built with ruby. This web app is a tool used to keep
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **Add new students**
 - **Add new books**
@@ -117,8 +111,6 @@ To test your code for errors, rub the following
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [@Kenny Egun](https://github.com/kennyegun24)
@@ -130,11 +122,7 @@ To test your code for errors, rub the following
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Add UI**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,8 +140,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -161,8 +147,6 @@ If you like this project...
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank...
 
